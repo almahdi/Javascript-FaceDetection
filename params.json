@@ -1,0 +1,6 @@
+{
+  "name": "Javascript-facedetection",
+  "tagline": "CCV Javascript Face Detection Library.",
+  "body": "# Javascript-FaceDetection\r\n\r\nThis demo uses the CCV Javascript Face Detection Library.\r\n\r\n-------------------------------------------------------------------------------\r\nTo start run App.start()  in your console.\r\n\r\nYou can also pass it a few different effects:\r\n\r\n*App.start('glasses'); // Goofy Glasses example\r\n\r\n*App.start('green'); // Green Screen effect (there is a hidden max and min sliders you can use to adjust the thresholds)\r\n\r\n*App.start('hipster'); // simple pixel manipulation example\r\n\r\n*App.start('blur'); // blur example\r\n\r\n\r\nRequires a browser that supports getUserMedia (Opera Labs camera or Chrome Canary)\r\n\r\nStart Google Chrome Canary with open -a Google\\ Chrome\\ Canary --args --enable-media-stream  OR enable the flag in about:flags\r\n\r\n--------------------------------------------------------------------------------\r\n\r\nOriginal links with a stored local video: \r\n\r\nDemo Video: http://www.youtube.com/watch?v=YYES9Qd094o&hd=1\r\n\r\nWorking Demo : http://wesbos.com/demos/html5-face-detection/ \r\n\r\nTutorial : http://www.wesbos.com/html5-video-face-detection-canvas-javascript\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
